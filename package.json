@@ -7,6 +7,9 @@
     "vscode": "^1.95.0"
   },
   "publisher": "aailaa",
+  "repository": {
+    "url": "https://github.com/dhruvchauhan/vscode-extension-pack"
+  },
   "categories": [
     "Extension Packs"
   ],
